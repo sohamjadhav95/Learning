@@ -9,10 +9,17 @@ hidden file(History files) - [ls -1]
 curent file status - [git status]
 
 
+# First add file then commit changes
+
 add - adds new or changed files in your working directory to the Git staging area.
 [git add ('filenames')]
 add all files - [git add .]
 
 commit - it is the record of change
 [git commit -m ('some message')]
+
+Upload change to Github - [git push origin main]
+origin = It push into Remote/online gihub. (It is base of rapsoratry)
+main   = It is push into (main) branch
+   
 
