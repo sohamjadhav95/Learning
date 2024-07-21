@@ -1,0 +1,18 @@
+Import rapsoratry to vs code - [git clnoe ('link')]
+
+change directory/folder - [cd ('name of folder')]
+
+clear the terminal - [clear]
+
+hidden file(History files) - [ls -1]
+
+curent file status - [git status]
+
+
+add - adds new or changed files in your working directory to the Git staging area.
+[git add ('filenames')]
+add all files - [git add .]
+
+commit - it is the record of change
+[git commit -m ('some message')]
+
