@@ -40,5 +40,21 @@ Making Branch to repo - [git branch]
 
 Rename Branch - [git branch -M (branch name)]
 
-Push Repository on github - [git push origin main]
+Push Repository on github - [git push origin (branch name, eg. 'main)]
+(use command (git push - u origin main) for use shortform to push current working file)
+(now only use (git push))
 
+
+------------------------------------------------------------------------------------------------
+
+# Git Branches
+
+To Cheak Branch - [git branch]
+
+Rename Branch - [git branch -M (branch name)]
+
+Navigate to a branch - [git checkout (branch name)]
+
+Crate New Branch - [git cheakout -b (new branch name)]
+
+Delete Branch - [git branch -d (branch name)]
