@@ -58,3 +58,10 @@ Navigate to a branch - [git checkout (branch name)]
 Crate New Branch - [git cheakout -b (new branch name)]
 
 Delete Branch - [git branch -d (branch name)]
+
+
+# Import Remote changes to local System
+
+used to fetch and download content from a remote repo and immediately update the local repo
+to match that content.
+[git pull origin main]
