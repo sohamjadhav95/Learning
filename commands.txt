@@ -34,4 +34,11 @@ Make the folder a git repository(after folder creation) - [git init]
 
 add repository from computer - [git remote add origin ('link')]
 
-to verify remote - [git remote -v]
+To verify remote - [git remote -v]
+
+Making Branch to repo - [git branch]
+
+Rename Branch - [git branch -M (branch name)]
+
+Push Repository on github - [git push origin main]
+
