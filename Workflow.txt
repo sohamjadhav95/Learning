@@ -1,0 +1,11 @@
+Github repository
+        |
+clnoe the repository
+        |
+do and save changes
+        |
+add file
+        |
+commit changes
+        |
+push to github
