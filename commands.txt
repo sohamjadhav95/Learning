@@ -1,8 +1,8 @@
 Import rapsoratry to vs code - [git clnoe ('link')]
 
-change directory/folder - [cd ('name of folder')]
+*change directory/folder - [cd ('name of folder')]
 
-clear the terminal - [clear]
+*clear the terminal - [clear]
 
 hidden file(History files) - [ls -1]
 
@@ -21,5 +21,17 @@ commit - it is the record of change
 Upload change to Github - [git push origin main]
 origin = It push into Remote/online gihub. (It is base of rapsoratry)
 main   = It is push into (main) branch
-   
 
+
+------------------------------------------------------------------------------------------------
+
+# Git Repository oprations from System(VS code)
+
+Create new git repository - [git init]
+
+*Create new folder - [mkdir ('folder name')]
+Make the folder a git repository(after folder creation) - [git init]
+
+add repository from computer - [git remote add origin ('link')]
+
+to verify remote - [git remote -v]
