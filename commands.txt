@@ -22,7 +22,7 @@ Upload change to Github - [git push origin main]
 origin = It push into Remote/online gihub. (It is base of rapsoratry)
 main   = It is push into (main) branch
 
-
+Cheak all commits - [git log]
 ------------------------------------------------------------------------------------------------
 
 # Git Repository oprations from System(VS code)
@@ -72,4 +72,25 @@ to match that content.
 
 
 # Merg Confilcts.
+
+solve conflicts in editor accept of decline changes and merge branches.
+[git merge (Branch name)]
+
+
+# Undo changes
+
+staged changes - [git reset (file name)]
+all changes in a file - [git reset]
+
+commited changes (for one commit) - [git reset HEAD~1]
+
+commited changes (for many commits) - [git reset (commit hash)]
+
+
+------------------------------------------------------------------------------------------------
+
+# Fork
+A fork is a new repository that shares code and visibility settings with the original "upstream"
+repository.
+Fork is a rough copy.
 
