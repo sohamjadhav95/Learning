@@ -73,3 +73,5 @@ to match that content.
 
 # Merg Confilcts.
 
+solve conflicts in editor accept of decline changes and merge branches.
+[git merge (Branch name)]
