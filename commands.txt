@@ -55,7 +55,7 @@ Rename Branch - [git branch -M (branch name)]
 
 Navigate to a branch - [git checkout (branch name)]
 
-Crate New Branch - [git cheakout -b (new branch name)]
+Crate New Branch - [git checkout -b (new branch name)]
 
 Delete Branch - [git branch -d (branch name)]
 
